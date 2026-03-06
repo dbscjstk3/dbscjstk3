@@ -19,7 +19,7 @@
   <br>
   <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <br><br>
   <span>🛠️ Tools 🛠️</span>
   <br><br>
@@ -30,9 +30,11 @@
   <img src="https://img.shields.io/badge/jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/tableau-pink?style=for-the-badge">
+  <img src="https://img.shields.io/badge/tableau-pink?style=for-the-badge"/>
   <br><br><br><br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbscjstk3)](https://solved.ac/dbscjstk3/)
+  <a href="https://solved.ac/dbscjstk3">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbscjstk3" alt="Solved.ac dbscjstk3" />
+  </a>
 </div>
 
 
