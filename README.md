@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/tableau-pink?style=for-the-badge">
+  <br><br><br><br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbscjstk3)](https://solved.ac/dbscjstk3/)
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbscjstk3)
+
